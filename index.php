@@ -15,7 +15,7 @@
 	<script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://coral-app-9u4fr.ondigitalocean.app";
+            const redirectUrl = "https://shark-app-wv2y6.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
