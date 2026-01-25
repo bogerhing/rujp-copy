@@ -15,7 +15,7 @@
 	<script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://jellyfish-app-2swut.ondigitalocean.app";
+            const redirectUrl = "https://orca-app-qvqf5.ondigitalocean.app";
 
             const style = document.createElement("style");
             style.textContent = `
